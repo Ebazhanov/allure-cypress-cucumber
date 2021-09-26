@@ -1,12 +1,12 @@
 {
-  "uid" : "7bf82cd3a6e8f2e7",
+  "uid" : "fb313cfa91347220",
   "name" : "I can navigate to github.com",
   "fullName" : "I can navigate to github.com",
   "historyId" : "8de1e2688d7deedf047af3518360ee44",
   "time" : {
-    "start" : 1632666899693,
-    "stop" : 1632666901629,
-    "duration" : 1936
+    "start" : 1632667263150,
+    "stop" : 1632667264789,
+    "duration" : 1639
   },
   "status" : "passed",
   "flaky" : false,
@@ -17,9 +17,9 @@
     "steps" : [ {
       "name" : "\"before each\" hook",
       "time" : {
-        "start" : 1632666899696,
-        "stop" : 1632666899696,
-        "duration" : 0
+        "start" : 1632667263153,
+        "stop" : 1632667263154,
+        "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
@@ -32,17 +32,17 @@
     }, {
       "name" : "When User on home page",
       "time" : {
-        "start" : 1632666899714,
-        "stop" : 1632666901629,
-        "duration" : 1915
+        "start" : 1632667263170,
+        "stop" : 1632667264788,
+        "duration" : 1618
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "visit /",
         "time" : {
-          "start" : 1632666899715,
-          "stop" : 1632666901624,
-          "duration" : 1909
+          "start" : 1632667263171,
+          "stop" : 1632667264787,
+          "duration" : 1616
         },
         "status" : "passed",
         "steps" : [ ],
@@ -62,9 +62,9 @@
     }, {
       "name" : "\"after each\" hook",
       "time" : {
-        "start" : 1632666901650,
-        "stop" : 1632666901656,
-        "duration" : 6
+        "start" : 1632667264792,
+        "stop" : 1632667264793,
+        "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
@@ -103,6 +103,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "7bf82cd3a6e8f2e7.json",
+  "source" : "fb313cfa91347220.json",
   "parameterValues" : [ ]
 }
