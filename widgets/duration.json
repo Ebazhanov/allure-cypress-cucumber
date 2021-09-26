@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7bf82cd3a6e8f2e7",
+  "name" : "I can navigate to github.com",
+  "time" : {
+    "start" : 1632666899693,
+    "stop" : 1632666901629,
+    "duration" : 1936
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

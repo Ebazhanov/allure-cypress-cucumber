@@ -1,0 +1,22 @@
+{
+  "8de1e2688d7deedf047af3518360ee44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bf82cd3a6e8f2e7",
+      "reportUrl" : "https://Ebazhanov.github.io/allure-cypress-cucumber/1//#testresult/7bf82cd3a6e8f2e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632666899693,
+        "stop" : 1632666901629,
+        "duration" : 1936
+      }
+    } ]
+  }
+}
