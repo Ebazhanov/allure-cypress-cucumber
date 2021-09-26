@@ -1,16 +1,11 @@
 name: End-to-end tests
-# push event
-on:
-  push:
-    branches: [master]
+on: [push]
 
-# workflow triggered
 jobs:
   cypress-e2e:
     runs-on: ubuntu-latest
-    container: cypress/browsers:node14.16.0-chrome90-ff88
+    container: cypress/browsers:latest
 
-    # steps -> sequence of tasks
     steps:
       - uses: actions/checkout@v2
       - name: Cypress run
