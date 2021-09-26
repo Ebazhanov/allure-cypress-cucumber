@@ -4,13 +4,13 @@
     "name" : "Github landing page",
     "children" : [ {
       "name" : "I can navigate to github.com",
-      "uid" : "7925ee291dc98663",
+      "uid" : "779a2c512e5fd8d2",
       "parentUid" : "37af5b3e02cf213565f6a841ec4998c3",
       "status" : "passed",
       "time" : {
-        "start" : 1632682397134,
-        "stop" : 1632682398447,
-        "duration" : 1313
+        "start" : 1632683798612,
+        "stop" : 1632683800556,
+        "duration" : 1944
       },
       "flaky" : false,
       "newFailed" : false,
