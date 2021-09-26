@@ -17,11 +17,12 @@ This repository contains [DEMO](https://ebazhanov.github.io/allure-cypress-cucum
 ### Pre-requirements:
 - install `Allure` for MacOS e.g. `brew install allure` or `npm install -g allure-commandline --save-dev`
 
-### What happens in github-actions:
-- run tests
-- restore history of previos run
-- create and publish result in gh-pages branch
+### What **GitHub Actions** is doing after you do Push or Merge:
+- run tests inside docker container
+- store test results
+- generate and publish Allure report in gh-pages branch
 - [DEMO](https://ebazhanov.github.io/allure-cypress-cucumber/)
+- read more about how to configure [gh-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
 ### Credits to:
 
