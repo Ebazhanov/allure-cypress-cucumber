@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fb313cfa91347220",
-      "reportUrl" : "https://Ebazhanov.github.io/allure-cypress-cucumber/2//#testresult/fb313cfa91347220",
+      "uid" : "ab998f7f11606ede",
+      "reportUrl" : "https://Ebazhanov.github.io/allure-cypress-cucumber/3//#testresult/ab998f7f11606ede",
       "status" : "passed",
       "time" : {
-        "start" : 1632667263150,
-        "stop" : 1632667264789,
-        "duration" : 1639
+        "start" : 1632668962394,
+        "stop" : 1632668963951,
+        "duration" : 1557
       }
     } ]
   }

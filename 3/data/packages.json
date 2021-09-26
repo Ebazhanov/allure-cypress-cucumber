@@ -2,13 +2,13 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "children" : [ {
     "name" : "I can navigate to github.com",
-    "uid" : "fb313cfa91347220",
+    "uid" : "ab998f7f11606ede",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
     "status" : "passed",
     "time" : {
-      "start" : 1632667263150,
-      "stop" : 1632667264789,
-      "duration" : 1639
+      "start" : 1632668962394,
+      "stop" : 1632668963951,
+      "duration" : 1557
     },
     "flaky" : false,
     "newFailed" : false,
