@@ -1,0 +1,28 @@
+{
+  "name": "allure-report-generated-by-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ebazhanov <evg.bazhanov@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "cy:run": "cypress run --env allure=true",
+    "allure:generate": "allure generate allure-results --clean",
+    "allure:open": "allure open allure-report",
+    "clear:results": "rd /s allure-results",
+    "clear:report": "rd /s allure-report "
+  },
+  "devDependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.1",
+    "@shelex/cypress-allure-plugin": "^2.17.1",
+    "@types/node": "^16.9.1",
+    "allure-commandline": "^2.13.8",
+    "cypress": "^8.4.1",
+    "cypress-cucumber-preprocessor": "^4.2.0",
+    "prettier": "^2.4.0",
+    "resolve": "^1.20.0",
+    "typescript": "^4.4.3"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/integration/**/"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "defaultCommandTimeout": 25000,
+  "pageLoadTimeout": 25000,
+  "responseTimeout": 25000,
+  "testFiles": "**/*.feature",
+  "baseUrl": "https://github.com/",
+  "screenshotOnRunFailure": true,
+  "video": true,
+  "watchForFileChanges": false,
+  "viewportWidth": 1740,
+  "viewportHeight": 1200,
+  "chromeWebSecurity": false
+}
