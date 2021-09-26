@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Ebazhanov.github.io/allure-cypress-cucumber",
+  "buildOrder" : 6,
+  "buildName" : "GitHub Actions Run #1275785533",
+  "buildUrl" : "https://github.com/Ebazhanov/allure-cypress-cucumber/actions/runs/1275785533",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Ebazhanov.github.io/allure-cypress-cucumber/6/"
+} ]
