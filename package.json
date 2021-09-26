@@ -6,10 +6,10 @@
   "license": "MIT",
   "scripts": {
     "cy:run": "cypress run --env allure=true",
-    "allure:generate": "allure generate allure-results --clean",
+    "allure:report": "allure generate allure-results --clean -o allure-report",
     "allure:open": "allure open allure-report",
-    "clear:results": "rd /s allure-results",
-    "clear:report": "rd /s allure-report "
+    "allure:clear": "rm -r allure-results/ allure-report cypress/screenshots || true",
+    "allure:history": "mv -f allure-report/history allure-results/history && rm -r allure-report || true"
   },
   "devDependencies": {
     "@cypress/browserify-preprocessor": "^3.0.1",
@@ -18,7 +18,6 @@
     "allure-commandline": "^2.13.8",
     "cypress": "^8.4.1",
     "cypress-cucumber-preprocessor": "^4.2.0",
-    "prettier": "^2.4.0",
     "resolve": "^1.20.0",
     "typescript": "^4.4.3"
   },

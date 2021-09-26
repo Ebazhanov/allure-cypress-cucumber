@@ -1,7 +1,9 @@
 Cypress Allure Plugin Usage Example
 ----
 
-In this repository, you can find [DEMO](https://ebazhanov.github.io/allure-cypress-cucumber/) of how to use cypress-allure-plugin.
+This repository contains [DEMO](https://ebazhanov.github.io/allure-cypress-cucumber/) 
+- how to publish Allure report in `gh-pages`
+- more details here [.github/workflows/main.yml](.github/workflows/main.yml)
 
 ![Img](AllureReport.png)
 
