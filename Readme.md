@@ -1,7 +1,9 @@
 Cypress Allure Plugin Usage Example
 ----
 
-In this repository, you can find [DEMO](https://ebazhanov.github.io/allure-cypress-cucumber/2/#) of how to use cypress-allure-plugin.
+In this repository, you can find [DEMO](https://ebazhanov.github.io/allure-cypress-cucumber/) of how to use cypress-allure-plugin.
+
+![Img](AllureReport.png)
 
 ### How to run locally:
 
@@ -17,7 +19,7 @@ In this repository, you can find [DEMO](https://ebazhanov.github.io/allure-cypre
 - run tests
 - restore history of previos run
 - create and publish result in gh-pages branch
-- [DEMO](https://ebazhanov.github.io/allure-cypress-cucumber/2/#)
+- [DEMO](https://ebazhanov.github.io/allure-cypress-cucumber/)
 
 ### Credits to:
 
