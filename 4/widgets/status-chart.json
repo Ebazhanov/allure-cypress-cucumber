@@ -1,10 +1,10 @@
 [ {
-  "uid" : "ab998f7f11606ede",
+  "uid" : "52d64a37484e7008",
   "name" : "I can navigate to github.com",
   "time" : {
-    "start" : 1632668962394,
-    "stop" : 1632668963951,
-    "duration" : 1557
+    "start" : 1632669541088,
+    "stop" : 1632669542815,
+    "duration" : 1727
   },
   "status" : "passed",
   "severity" : "normal"

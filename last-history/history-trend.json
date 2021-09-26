@@ -1,6 +1,6 @@
 [ {
-  "buildOrder" : 3,
-  "reportUrl" : "https://Ebazhanov.github.io/allure-cypress-cucumber/3/",
+  "buildOrder" : 4,
+  "reportUrl" : "https://Ebazhanov.github.io/allure-cypress-cucumber/4/",
   "reportName" : "Allure Report with history",
   "data" : {
     "failed" : 0,
