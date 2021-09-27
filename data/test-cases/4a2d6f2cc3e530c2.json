@@ -1,12 +1,12 @@
 {
-  "uid" : "47c37fc534ef8c9a",
+  "uid" : "4a2d6f2cc3e530c2",
   "name" : "I can navigate to github.com",
   "fullName" : "I can navigate to github.com",
   "historyId" : "8de1e2688d7deedf047af3518360ee44",
   "time" : {
-    "start" : 1632731916325,
-    "stop" : 1632731917797,
-    "duration" : 1472
+    "start" : 1632735034809,
+    "stop" : 1632735036562,
+    "duration" : 1753
   },
   "status" : "passed",
   "flaky" : false,
@@ -17,9 +17,9 @@
     "steps" : [ {
       "name" : "\"before each\" hook",
       "time" : {
-        "start" : 1632731916330,
-        "stop" : 1632731916330,
-        "duration" : 0
+        "start" : 1632735034813,
+        "stop" : 1632735034814,
+        "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
@@ -30,19 +30,19 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "When User on home page",
+      "name" : "When User is on home page",
       "time" : {
-        "start" : 1632731916349,
-        "stop" : 1632731917797,
-        "duration" : 1448
+        "start" : 1632735034831,
+        "stop" : 1632735036562,
+        "duration" : 1731
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "visit /",
         "time" : {
-          "start" : 1632731916349,
-          "stop" : 1632731917795,
-          "duration" : 1446
+          "start" : 1632735034832,
+          "stop" : 1632735036552,
+          "duration" : 1720
         },
         "status" : "passed",
         "steps" : [ ],
@@ -62,9 +62,9 @@
     }, {
       "name" : "\"after each\" hook",
       "time" : {
-        "start" : 1632731917810,
-        "stop" : 1632731917811,
-        "duration" : 1
+        "start" : 1632735036581,
+        "stop" : 1632735036583,
+        "duration" : 2
       },
       "status" : "passed",
       "steps" : [ ],
@@ -103,6 +103,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "47c37fc534ef8c9a.json",
+  "source" : "4a2d6f2cc3e530c2.json",
   "parameterValues" : [ ]
 }

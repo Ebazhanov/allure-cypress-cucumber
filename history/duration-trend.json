@@ -1,8 +1,8 @@
 [ {
-  "buildOrder" : 10,
-  "reportUrl" : "https://Ebazhanov.github.io/allure-cypress-cucumber/10/",
+  "buildOrder" : 11,
+  "reportUrl" : "https://Ebazhanov.github.io/allure-cypress-cucumber/11/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 1472
+    "duration" : 1753
   }
 } ]

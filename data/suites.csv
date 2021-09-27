@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Sep 27 08:38:36 GMT 2021","Mon Sep 27 08:38:37 GMT 2021","1472","","Github landing page","","","","I can navigate to github.com",""
+"passed","Mon Sep 27 09:30:34 GMT 2021","Mon Sep 27 09:30:36 GMT 2021","1753","","Github landing page","","","","I can navigate to github.com",""
