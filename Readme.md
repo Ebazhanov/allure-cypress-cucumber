@@ -26,4 +26,4 @@ This repository contains [DEMO](https://ebazhanov.github.io/allure-cypress-cucum
 
 ### Credits to:
 
-- [@Shelex/cypress-allure-plugin]([https://github.com/Shelex/cypress-allure-plugin])
+- [@Shelex/cypress-allure-plugin](https://github.com/Shelex/cypress-allure-plugin)
