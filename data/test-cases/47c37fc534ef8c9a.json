@@ -1,12 +1,12 @@
 {
-  "uid" : "de6937696c4c5844",
+  "uid" : "47c37fc534ef8c9a",
   "name" : "I can navigate to github.com",
   "fullName" : "I can navigate to github.com",
   "historyId" : "8de1e2688d7deedf047af3518360ee44",
   "time" : {
-    "start" : 1632684668178,
-    "stop" : 1632684669911,
-    "duration" : 1733
+    "start" : 1632731916325,
+    "stop" : 1632731917797,
+    "duration" : 1472
   },
   "status" : "passed",
   "flaky" : false,
@@ -17,70 +17,70 @@
     "steps" : [ {
       "name" : "\"before each\" hook",
       "time" : {
-        "start" : 1632684668183,
-        "stop" : 1632684668183,
+        "start" : 1632731916330,
+        "stop" : 1632731916330,
         "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false,
-      "stepsCount" : 0
+      "hasContent" : false
     }, {
       "name" : "When User on home page",
       "time" : {
-        "start" : 1632684668202,
-        "stop" : 1632684669907,
-        "duration" : 1705
+        "start" : 1632731916349,
+        "stop" : 1632731917797,
+        "duration" : 1448
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "visit /",
         "time" : {
-          "start" : 1632684668203,
-          "stop" : 1632684669905,
-          "duration" : 1702
+          "start" : 1632731916349,
+          "stop" : 1632731917795,
+          "duration" : 1446
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
+        "stepsCount" : 0,
         "attachmentsCount" : 0,
         "shouldDisplayMessage" : false,
-        "hasContent" : false,
-        "stepsCount" : 0
+        "hasContent" : false
       } ],
       "attachments" : [ ],
       "parameters" : [ ],
+      "stepsCount" : 1,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : true,
-      "stepsCount" : 1
+      "hasContent" : true
     }, {
       "name" : "\"after each\" hook",
       "time" : {
-        "start" : 1632684669945,
-        "stop" : 1632684669946,
+        "start" : 1632731917810,
+        "stop" : 1632731917811,
         "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false,
-      "stepsCount" : 0
+      "hasContent" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
+    "stepsCount" : 4,
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "hasContent" : true,
-    "stepsCount" : 4
+    "hasContent" : true
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -103,6 +103,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "de6937696c4c5844.json",
+  "source" : "47c37fc534ef8c9a.json",
   "parameterValues" : [ ]
 }
